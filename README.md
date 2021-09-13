@@ -1,5 +1,5 @@
 <h1 align="center">
-    PRACTICA EXPERIMENTAL #1
+    PRACTICA EXPERIMENTAL #2
     </br>
     LEY DE OHM
 </h1>
